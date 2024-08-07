@@ -1,5 +1,9 @@
-def main():
-  pass
+from requests import get
 
-if __name__ == "__main__":
-  main()
+BASE_URL = "https://api.etherscan.io/api"
+
+make_api_url() 
+
+get_balance_byAddress()
+
+get_last_block()
