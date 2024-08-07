@@ -1,3 +1,4 @@
+
 # Imports
 
 from requests import get
@@ -30,4 +31,11 @@ get_balance_byAddress()
 get_last_block()
 
 	- Retorna o último bloco lançado na blockchain
+
+=======
+# EazyChains - Projeto da turma presencial
+
+# Lead: Rodrigo Paiva
+
+# Members: Larsen, Pastore, Boeing & Fernando
 
